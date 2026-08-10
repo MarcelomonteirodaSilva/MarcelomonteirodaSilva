@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou Marcelo Monteiro  
 
 💼 **Analista de Infraestrutura**  
-👨‍💻 Atualmente aprendendo desenvolvimento e aprimorando minhas habilidades técnicas.  
+📚 Atualmente aprendendo desenvolvimento e aprimorando minhas habilidades técnicas.  
 
 ---
 
